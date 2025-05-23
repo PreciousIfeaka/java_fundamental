@@ -11,7 +11,6 @@ public class Exe2_25 {
     System.out.print("\nEnter the integer: ");
     int num1 = input.nextInt();
 
-    String result = num1 % 3 == 0 ? "Divisible by 3" : "Not divisible by 3";
-    System.out.println(result);
+    System.out.println(num1 % 3 == 0 ? "Divisible by 3" : "Not divisible by 3");
   }
 }

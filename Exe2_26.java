@@ -14,7 +14,6 @@ public class Exe2_26 {
     System.out.print("\nEnter the second integer: ");
     int num2 = input.nextInt();
 
-    String result = (num1 * 3) % (num2 * 2) == 0 ? "Valid multiple" : "Invalid multiple";
-    System.out.println(result);
+    System.out.println((num1 * 3) % (num2 * 2) == 0 ? "Valid multiple" : "Invalid multiple");
   }
 }
