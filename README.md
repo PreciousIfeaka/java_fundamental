@@ -1,1 +1,2 @@
-### The folders with chapter names contain solutions to exercises from `Java How to Program, Early Objects by Paul Deitel Harvey Deitel` 
+### The folders with chapter names contain solutions to exercises from `Java How to Program, Early Objects by Paul Deitel Harvey Deitel`
+### While the other directories are solutions to random exercises
